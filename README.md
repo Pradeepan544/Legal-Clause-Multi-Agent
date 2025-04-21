@@ -42,6 +42,8 @@ It’s like having a mini legal team in your terminal.
 git clone https://github.com/your-username/legal-clause-agent.git
 cd legal-clause-agent
 
+---
+
 ##  🧪 Behind the Scenes
 - Agents communicate via ReactAgent to delegate tasks.
 
@@ -51,6 +53,8 @@ cd legal-clause-agent
 
 - Every run is traceable and debuggable via the handler.
 
+---
+
 ## 🧠 Lessons Learned
 - Don’t assume the LLM knows your domain — tell it.
 
@@ -58,9 +62,13 @@ cd legal-clause-agent
 
  - You can build amazing agents… and forget the query. Don’t do that. 😉
 
+---
+
 ## 📃 License
 MIT License
 © 2025 Shanmuga Pradeepan R.
+
+---
 
  ## 🙌 Contribute
 Found a better way to tame legalese with AI? PRs welcome. Let’s build smarter agents together.
