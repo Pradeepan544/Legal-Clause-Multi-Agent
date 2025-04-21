@@ -34,15 +34,6 @@ It’s like having a mini legal team in your terminal.
 
 ---
 
-## 🚀 Quick Start
-
-1. **Clone the repo**
-
-```bash
-git clone https://github.com/your-username/legal-clause-agent.git
-cd legal-clause-agent```
-
----
 
 ##  🧪 Behind the Scenes
 - Agents communicate via ReactAgent to delegate tasks.
