@@ -40,7 +40,7 @@ It’s like having a mini legal team in your terminal.
 
 ```bash
 git clone https://github.com/your-username/legal-clause-agent.git
-cd legal-clause-agent
+cd legal-clause-agent```
 
 ---
 
